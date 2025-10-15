@@ -1,4 +1,4 @@
-# Protein-Mutation-Feature-Extractor-Work-in-Progress-
+# Protein_Mutation_Classifier
 This project aims to extract structured features for protein residues to train machine learning models that predict the functional impact of protein mutations.
 Features Implemented So Far
 	•	Fetch data from PDB and ClinVar.
