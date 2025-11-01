@@ -11,7 +11,7 @@ from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
 from Bio.Align.Applications import ClustalOmegaCommandline
 import json
-project_root = '/Users/ethanlucsik/Desktop/python_work/cancer_mutation_project'
+project_root = '/Users/YOUR/PATH/HERE'
 output_dir = os.path.join(project_root, "results")
 os.makedirs(output_dir, exist_ok=True)
 
